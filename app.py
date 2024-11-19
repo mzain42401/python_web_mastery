@@ -51,7 +51,6 @@
 
 import modules
 
-modules.gen_Table(1)
 
 
 # output
